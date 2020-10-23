@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+.pink {
+  color: purple;
+  background-color: pink;
+  padding: 6%;
+  border: 10px dotted lightblue;
+  font-family: helvetica;
+  font-size: 100px;
+  text-shadow: 5px 5px white;
+}
+
+img {
+  width: 200px;
+}
